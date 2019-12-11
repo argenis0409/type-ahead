@@ -1,0 +1,23 @@
+{
+  "name": "type-ahead",
+  "version": "1.0.0",
+  "description": "Type ahead",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "static -H \"{\\\"Cache-Control\\\": \\\"no-cache, must-revalidate\\\"}\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/argenis0409/type-ahead.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/argenis0409/type-ahead/issues"
+  },
+  "homepage": "https://github.com/argenis0409/type-ahead#readme",
+  "dependencies": {
+    "node-static": "^0.7.11"
+  }
+}
